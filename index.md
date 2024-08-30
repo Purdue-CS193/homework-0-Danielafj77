@@ -28,11 +28,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-#Daniel's First CS193 Homework
+##Daniel's First CS193 Homework.
 
-##Favorite things about CS193
--Helpful
--interesting
+
+##Favorite things about CS193.
+
+-Helpful.
+-interesting.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
