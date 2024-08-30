@@ -10,13 +10,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+#Daniel's First CS193 Homework
 # Header 1
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
+-Helpful
+-interesting
+
 
 1. Numbered
 2. List
@@ -25,7 +28,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+#Daniel's First CS193 Homework
+##Favorite things about CS193
+-Helpful
+-interesting
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
