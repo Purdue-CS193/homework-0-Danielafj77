@@ -29,6 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 #Daniel's First CS193 Homework
+
 ##Favorite things about CS193
 -Helpful
 -interesting
